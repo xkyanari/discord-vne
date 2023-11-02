@@ -1,0 +1,35 @@
+{
+    "Narrator" : {
+        "defaultColor": "#FFFFFF"
+    },
+    "Hiroshi": {
+        "defaultColor": "#ADD8E6",
+        "defaultExpression": "neutral",
+        "expressions": {
+            "neutral": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868337/discord-buildathon/Hiroshi_neutral_mvowv1.png"
+            },
+            "surprised": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868337/discord-buildathon/Hiroshi_surprised_ycjkhh.png"
+            },
+            "worried": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868338/discord-buildathon/Hiroshi_worried_hrjmma.png"
+            }
+        }
+    },
+    "Aoi": {
+        "defaultColor": "#FFC0CB",
+        "defaultExpression": "neutral",
+        "expressions": {
+            "neutral": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868338/discord-buildathon/Aoi_neutral_cooxof.png"
+            },
+            "convincing": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868337/discord-buildathon/Aoi_convincing_h0rhaz.png"
+            },
+            "happy": {
+                "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698868337/discord-buildathon/Aoi_happy_nwab84.png"
+            }
+        }
+    }
+}

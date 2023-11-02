@@ -1,0 +1,53 @@
+{
+    "dialogues": [
+        {
+            "character": "Narrator",
+            "dialogue": "Welcome to the first episode of **DDevs Buildathon**!\n\nNavigate with the arrow buttons to read. Enjoy!",
+            "setting": "Discord"
+        },
+        {
+            "character": "Narrator",
+            "dialogue": "One morning, Hiroshi and Aoi are thinking about their project for DDevs Buildathon.",
+            "setting": "Office"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "worried",
+            "dialogue": "I'm not sure if I can handle this new project for DDevs Buildathon. It seems too complex."
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "worried",
+            "thoughts": "Can I really do this? It seems so daunting."
+        },
+        {
+            "character": "Aoi",
+            "expression": "convincing",
+            "dialogue": "You're more than capable, Hiroshi! You've handled tougher situations before.\n\nThis is just another challenge you'll overcome."
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "surprised",
+            "dialogue": "Really? You think so, Aoi?"
+        },
+        {
+            "character": "Aoi",
+            "expression": "happy",
+            "dialogue": "Absolutely! I have complete faith in your abilities."
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "Well, I suppose you're right, Aoi. I'll give it my best shot."
+        },
+        {
+            "character": "Aoi",
+            "expression": "neutral",
+            "dialogue": "That's the spirit, Hiroshi! Just do your best, that's all anyone can ask for."
+        },
+        {
+            "character": "Narrator",
+            "dialogue": "Thanks for reading!"
+        }
+    ]
+}

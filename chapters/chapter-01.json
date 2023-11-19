@@ -2,52 +2,84 @@
     "dialogues": [
         {
             "character": "Narrator",
-            "dialogue": "Welcome to the first episode of **DDevs Buildathon**!\n\nNavigate with the arrow buttons to read. Enjoy!",
-            "setting": "Discord"
+            "dialogue": "**Chapter 1: The Encounter**\n\nAnother day at my usual spot in the local coffee shop. There's a comforting hum of ambient noise around me.\n\nAs for me? I'm **Hiroshi**, just another face in the sea of students at the university. Economics is my battlefield, and here I am, sitting in front of my laptop trying to power through the last of today's emails.",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Narrator",
-            "dialogue": "One morning, Hiroshi and Aoi are thinking about their project for DDevs Buildathon.",
-            "setting": "Office"
-        },
-        {
-            "character": "Hiroshi",
-            "expression": "worried",
-            "dialogue": "I'm not sure if I can handle this new project for DDevs Buildathon. It seems too complex."
-        },
-        {
-            "character": "Hiroshi",
-            "expression": "worried",
-            "thoughts": "Can I really do this? It seems so daunting."
+            "dialogue": "I glance up briefly, then back to the screen, taking a sip of my coffee.",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Aoi",
-            "expression": "convincing",
-            "dialogue": "You're more than capable, Hiroshi! You've handled tougher situations before.\n\nThis is just another challenge you'll overcome."
+            "expression": "neutral",
+            "dialogue": "\"Hey, aren't you Hiroshi? From Professor Yamada's Economic class?\"",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Hiroshi",
-            "expression": "surprised",
-            "dialogue": "Really? You think so, Aoi?"
+            "expression": "neutral",
+            "dialogue": "I look up again, this time with slow recognition dawning on me.\n\n\"Oh, yeah... **Aoi**, right? It's been a while.\"",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Aoi",
             "expression": "happy",
-            "dialogue": "Absolutely! I have complete faith in your abilities."
+            "dialogue": "\"It has! I saw you sitting here and thought I'd say hi. You always had interesting insights in class.\"",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Hiroshi",
             "expression": "neutral",
-            "dialogue": "Well, I suppose you're right, Aoi. I'll give it my best shot."
+            "dialogue": "\"Thanks. What brings you here?\"",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Aoi",
             "expression": "neutral",
-            "dialogue": "That's the spirit, Hiroshi! Just do your best, that's all anyone can ask for."
+            "dialogue": "\"I was just meeting a friend, but they canceled last minute. So now I have this extra coffee and no one to share it with.\"\n\nShe slides the extra cup towards me.",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "surprised",
+            "dialogue": "I accept the coffee with a surprised look.\n\n\"That's really kind of you. Thanks.\"",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Aoi",
+            "expression": "happy",
+            "dialogue": "\"No problem! Actually, while I have you here, there's something that might interest you.\"",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Aoi",
+            "expression": "convincing",
+            "dialogue": "\"There's an event happening at the community center this weekend. It's all about sustainable living and green initiatives.\"",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "I raise an eyebrow, curious.\n\n\"Sounds interesting... but I'm not sure if I'll have the time.\"",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Aoi",
+            "expression": "neutral",
+            "dialogue": "\"I remember you talking about renewable energy in our class discussions. This could be right up your alley – plus, it's a great way to network with people who are also passionate about the environment.\"\n\nShe leans forward slightly.",
+            "setting": "Coffee Shop"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "\"Well, when you put it like that... maybe I could swing by.\"",
+            "setting": "Coffee Shop"
         },
         {
             "character": "Narrator",
-            "dialogue": "Thanks for reading!"
+            "dialogue": "...And just like that, Aoi beams and leaves. I take a deep breath. Well, I don't really have any plans, so might as well go.\n\n**End of Chapter 1**",
+            "setting": "Coffee Shop"
         }
     ]
 }

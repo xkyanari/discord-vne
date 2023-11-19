@@ -4,5 +4,14 @@
     },
     "Discord": {
         "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1698906492/discord-buildathon/discord-logo_yeyfyx.png"
+    },
+    "Coffee Shop": {
+        "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1700409244/discord-buildathon/coffee_shop_i9fbie.png"
+    },
+    "Community Center": {
+        "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1700409244/discord-buildathon/community_center_wpl2jv.png"
+    },
+    "Park Bench": {
+        "image": "https://res.cloudinary.com/dnjaazvr7/image/upload/v1700409244/discord-buildathon/park_bench_r6hyqk.png"
     }
 }

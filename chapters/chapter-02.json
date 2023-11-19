@@ -1,0 +1,97 @@
+{
+    "dialogues": [
+        {
+            "character": "Narrator",
+            "dialogue": "**Chapter 2: The Surprise**\n\nWeekend. I go to the Community Center just as Aoi asked. There are lots of banners and booths set up around while people mill about. There's a buzz in the air!",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "surprised",
+            "dialogue": "\"Wow, I didn't expect this to be so... big.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "convincing",
+            "dialogue": "\"Surprised?\"\n\nAoi spoke behind me. I think my heart jumped when I heard her voice.",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "\"Definitely. I thought this was just a small gathering.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "convincing",
+            "dialogue": "\"We've been planning this for months. It's great to see such a turnout, right?\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "I nod as I'm still taking in the scene.\n\n\"What's the main goal for this event again?\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "neutral",
+            "dialogue": "\"It's to raise awareness and funds for local environmental initiatives.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "happy",
+            "dialogue": "\"Remember how you always talked about conservation efforts back in class? I figured you'd enjoy this.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "surprised",
+            "dialogue": "\"You remembered that?\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "happy",
+            "dialogue": "\"Of course! And look over there—that booth is all about reducing plastic waste in our oceans. I thought that might interest you.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Narrator",
+            "dialogue": "I walk towards the booth with Aoi following me. I see a pamphlet and read it intently.",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "surprised",
+            "dialogue": "\"This is incredible. They're actually making a difference.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "convincing",
+            "dialogue": "\"Told you it would be worth it.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Hiroshi",
+            "expression": "neutral",
+            "dialogue": "\"Aoi, thank you for bringing me here.\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Aoi",
+            "expression": "happy",
+            "dialogue": "\"Don't mention it. Just promise me you'll get involved!\"",
+            "setting": "Community Center"
+        },
+        {
+            "character": "Narrator",
+            "dialogue": "Aoi and I share a laugh as we continue walking around the community center where we meet more people and staff.\n\n**End of Chapter 2**",
+            "setting": "Community Center"
+        }
+    ]
+}

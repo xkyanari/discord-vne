@@ -2,12 +2,7 @@
     "dialogues": [
         {
             "character": "Narrator",
-            "dialogue": "Welcome to the first episode of **DDevs Buildathon**!\n\nNavigate with the arrow buttons to read. Enjoy!",
-            "setting": "Discord"
-        },
-        {
-            "character": "Narrator",
-            "dialogue": "One morning, Hiroshi and Aoi are thinking about their project for DDevs Buildathon.",
+            "dialogue": "One morning, Hiroshi and Aoi are thinking about their project for **DDevs Buildathon**.",
             "setting": "Office"
         },
         {

@@ -7,6 +7,8 @@ Please note that this is the simplest form for short kinetic visual novels. See 
 
 Other features like branching paths, multiple endings, etc. are not included. Feel free to contribute if you like!
 
+https://github.com/xkyanari/discord-vne/assets/11563770/470e301d-3bac-4151-ab0e-1d8ee15ffd8c
+
 ![image](https://github.com/xkyanari/discord-vne/assets/11563770/27684535-6bb1-4938-98a0-08742239234e)
 
 ![image](https://github.com/xkyanari/discord-vne/assets/11563770/3e6df45b-e91a-4e13-af3d-c2ca5588081e)

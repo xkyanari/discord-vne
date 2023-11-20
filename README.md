@@ -1,4 +1,4 @@
-# Visual Novel Engine for DDevs Buildathon
+# Epicara - Visual Novel Engine for DDevs Buildathon
 
 This engine reads and processes novel chapters, creating interactive elements from dialogues -- all through Discord as Message Embeds!
 It can be run as a Discord bot if you have the token (create a config.json or .env to authenticate) and it will allow you to use `/startvn` slash command.
